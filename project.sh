@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/zsh
 
 alias PROJECT='cd ~/Dev/PROJECT'
 alias run_PROJECT='PROJECT && pnpm start'

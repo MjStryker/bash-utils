@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/zsh
 
 alias update='
 echo "\n-- UPDATE"
