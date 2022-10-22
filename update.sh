@@ -1,6 +1,6 @@
 #!/usr/bin/zsh
 
-alias update='
+alias ,update='
 echo "\n-- UPDATE"
 sudo apt update -y
 
